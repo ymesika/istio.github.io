@@ -118,7 +118,7 @@ Each local Citadel [can be configured](https://istio.io/docs/tasks/security/plug
 
 If necessary the Istio Citadel can also play the role of the root CA and this can be achieved by running the Citadel as a standalone service on a cluster accessible by both clusters.
 
-[Permission to put Shriram's diagram here]
+![](Federation-setup.png)
 
 ## Example: Distributed Bookinfo
 
